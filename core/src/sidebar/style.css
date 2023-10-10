@@ -28,11 +28,13 @@ body {
 }
 
 #sidebar-header {
-  display: block;
+  display: flex;
   align-items: center;
   flex-direction: column;
   background-color: #3b3f52;
   border-bottom: 1px solid #d0d0d0;
+  padding: 10px;
+
 }
 
 #sidebar-header button {
@@ -278,7 +280,7 @@ body {
   width : 100%;
   
   border-radius: 5px;
-  margin: 20px 0;
+  margin: 10px 0;
 }
 
 .icon_fav:hover{
