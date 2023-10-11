@@ -97,7 +97,7 @@ toolbarbutton[open="true"] {
 }
 
 #sidebar-splitter {
-  background-color: transparent !important;
+  background-color: #3b3f52 !important;
   border: none !important;
   box-shadow: none !important;
 }
